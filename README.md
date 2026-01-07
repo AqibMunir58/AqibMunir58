@@ -3,10 +3,10 @@
 ### 🚀 About Me
 I'm **Aqib Munir**, an experienced **Android Developer & Technical Contributor** with strong expertise in building scalable, secure, and high-performance mobile applications. I am passionate about clean architecture and writing maintainable code. I enjoy solving complex problems and continuously improving app quality through best practices.
 
-🔭 **Currently Working On:** Android & Flutter applications with a focus on performance, scalability, and clean architecture.  
-🌱 **Learning:** Jetpack Compose advanced concepts, AI integrations, image processing, and modern Android trends.  
-🎙 **Team Contributor:** Actively involved in code reviews, bug fixing, and knowledge sharing within the team.  
-💬 **Ask Me About:** Android development, Kotlin, Flutter, clean architecture, state management, Mapbox, Firebase, and encryption.  
+- 🔭 **Currently Working On:** Android & Flutter applications with a focus on performance, scalability, and clean architecture.  
+- 🌱 **Learning:** Jetpack Compose advanced concepts, AI integrations, image processing, and modern Android trends.  
+- 🎙 **Team Contributor:** Actively involved in code reviews, bug fixing, and knowledge sharing within the team.  
+- 💬 **Ask Me About:** Android development, Kotlin, Flutter, clean architecture, state management, Mapbox, Firebase, and encryption.  
 
 ---
 

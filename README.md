@@ -51,6 +51,5 @@ Keeping up with the latest Android trends, tools, and best practices.
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: muniraqib58@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn URL)*  
-- 🐙 GitHub: https://github.com/your-username
+- 📧 Email: muniraqib58@gmail.com
+- 🐙 GitHub: https://github.com/AqibMunir58

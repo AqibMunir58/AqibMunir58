@@ -10,11 +10,6 @@ I'm **Aqib Munir**, an experienced **Android Developer & Technical Contributor**
 
 ---
 
-### 📈 GitHub Stats
-*(You can add GitHub stats here later)*
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**

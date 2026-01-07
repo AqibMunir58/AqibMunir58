@@ -36,16 +36,16 @@ I'm **Aqib Munir**, an experienced **Android Developer & Technical Contributor**
 
 ### 👨‍💻 Current Responsibilities
 
-**Application Development**  
+- **Application Development**  
 Designing, developing, and maintaining Android & Flutter applications with a focus on performance and scalability.
 
-**Code Quality & Optimization**  
+- **Code Quality & Optimization**  
 Conducting code reviews, fixing bugs, and optimizing apps for stability and speed.
 
-**Collaboration & Support**  
+- **Collaboration & Support**  
 Working closely with team members to solve technical challenges and improve overall development workflow.
 
-**Continuous Learning**  
+- **Continuous Learning**  
 Keeping up with the latest Android trends, tools, and best practices.
 
 ---

@@ -1,16 +1,65 @@
 ## Hi there 👋
 
-<!--
-**AqibMunir58/AqibMunir58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm **Aqib Munir**, an experienced **Android Developer & Technical Contributor** with strong expertise in building scalable, secure, and high-performance mobile applications. I am passionate about clean architecture and writing maintainable code. I enjoy solving complex problems and continuously improving app quality through best practices.
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:** Android & Flutter applications with a focus on performance, scalability, and clean architecture.  
+🌱 **Learning:** Jetpack Compose advanced concepts, AI integrations, image processing, and modern Android trends.  
+🎙 **Team Contributor:** Actively involved in code reviews, bug fixing, and knowledge sharing within the team.  
+💬 **Ask Me About:** Android development, Kotlin, Flutter, clean architecture, state management, Mapbox, Firebase, and encryption.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+*(You can add GitHub stats here later)*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Kotlin  
+- Java  
+- Dart  
+
+**Frameworks & Tools**
+- Android SDK  
+- Flutter  
+- Jetpack Compose  
+- Firebase  
+- Mapbox / Google Maps  
+
+**Development Practices**
+- Clean Architecture  
+- MVVM / MVI  
+- Modularization  
+- State Management  
+
+**Other Tools**
+- Git & GitHub  
+- Gradle  
+- CI/CD  
+- FFmpeg  
+
+---
+
+### 👨‍💻 Current Responsibilities
+
+**Application Development**  
+Designing, developing, and maintaining Android & Flutter applications with a focus on performance and scalability.
+
+**Code Quality & Optimization**  
+Conducting code reviews, fixing bugs, and optimizing apps for stability and speed.
+
+**Collaboration & Support**  
+Working closely with team members to solve technical challenges and improve overall development workflow.
+
+**Continuous Learning**  
+Keeping up with the latest Android trends, tools, and best practices.
+
+---
+
+### 🌐 Connect With Me
+- 📧 Email: muniraqib58@gmail.com  
+- 💼 LinkedIn: *(add your LinkedIn URL)*  
+- 🐙 GitHub: https://github.com/your-username

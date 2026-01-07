@@ -10,31 +10,27 @@ I'm **Aqib Munir**, an experienced **Android Developer & Technical Contributor**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-- Kotlin  
-- Java  
-- Dart  
+### 🔹 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Frameworks & Tools**
-- Android SDK  
-- Flutter  
-- Jetpack Compose  
-- Firebase  
-- Mapbox / Google Maps  
+### 🔹 Frameworks & Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-00C853?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-**Development Practices**
-- Clean Architecture  
-- MVVM / MVI  
-- Modularization  
-- State Management  
+### 🔹 Dev Practices
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00C853?style=for-the-badge)
+![Modularization](https://img.shields.io/badge/Modularization-00BFA5?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
 
-**Other Tools**
-- Git & GitHub  
-- Gradle  
-- CI/CD  
-- FFmpeg  
+### 🔹 Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge)
+
 
 ---
 
